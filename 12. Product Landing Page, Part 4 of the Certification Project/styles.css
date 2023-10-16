@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px) {
+  }
+  #nav-bar {
+    position: fixed;
+    top: 0;
+  }
+  #section1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
